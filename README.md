@@ -12,6 +12,7 @@ The Goal of this tech test is to test your knowledge with Ruby on Rails and impl
 
 ## Bonus
 
+- Sort tasks by not completed first, so when a task is marked as completed it should jump to the bottom of the list
 - Add a section on your to-do list regrouping the tasks that have been missed (not completed and with a deadline in the past). You can try using a model scope.
 - Without implementing them, which tests could you write to make sure your app is robust?
 
